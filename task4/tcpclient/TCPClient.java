@@ -6,7 +6,7 @@ README: Program which creates a TCP clientSocket which is used to communicate be
 given the option to send a message to the server or not.
 */
 
-package tcpclient;
+package task4.tcpclient;
 import java.net.*;
 import java.io.*;
 import java.nio.charset.StandardCharsets;

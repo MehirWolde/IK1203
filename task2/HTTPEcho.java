@@ -1,3 +1,5 @@
+package task2;
+
 import java.net.*;
 import java.nio.charset.StandardCharsets;
 import java.io.*;
